@@ -1,5 +1,4 @@
 # Multi-Vina #
-=============
 
 Multi-vina is modified version of Autodock Vina so you can dock multiple ligands at a time which was not 
 possible by the original Autodock Vina. Now you won't need to use vina_split anymore to split the ligands 
